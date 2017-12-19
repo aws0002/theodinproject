@@ -1,0 +1,1 @@
+This is aws0002’s first git project!
